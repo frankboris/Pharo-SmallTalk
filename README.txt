@@ -1,0 +1,1 @@
+This is the pharo contact book app
